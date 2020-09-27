@@ -1,6 +1,6 @@
 console.log("bechin");
 
-function bac(a,bac){
-    console.log("bechin test");
+function bac(a,b){
+    consolec.log("bechin test");
 };
 
